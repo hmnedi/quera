@@ -4,6 +4,7 @@ once in a while I'm going to upload codes that I solve in the quera website(it's
 # آرایه و رشته‌ها
 - Q001 : مجید و ماژیک‌هاش
 - Q002 :
-- Q003 :
-- Q004 :
+- Q003 : خواب پوپک
+- Q004 : تک‌رقمی
+- Q005 : سطح اعتیاد
 - 
