@@ -1,4 +1,5 @@
 # 2021-03-10
+
 a, b, c = map(int, input().split())
 
 alist = []
