@@ -8,3 +8,5 @@ once in a while I'm going to upload codes that I solve in the quera website(it's
 - Q004 : تک‌رقمی
 - Q005 : سطح اعتیاد
 - Q006 : سراب
+- Q007 : جدول ضرب گنده
+- 
