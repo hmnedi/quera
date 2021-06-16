@@ -9,4 +9,5 @@ once in a while I'm going to upload codes that I solve in the quera website(it's
 - Q005 : سطح اعتیاد
 - Q006 : سراب
 - Q007 : جدول ضرب گنده
+- Q008 : کدتخفیف
 - 
