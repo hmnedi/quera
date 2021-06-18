@@ -10,4 +10,6 @@ once in a while I'm going to upload codes that I solve in the quera website(it's
 - Q006 : سراب
 - Q007 : جدول ضرب گنده
 - Q008 : کدتخفیف
+- Q009 : همایش زندگی بهتر
+- Q010 : روز آزادی بیان در برره
 - 
